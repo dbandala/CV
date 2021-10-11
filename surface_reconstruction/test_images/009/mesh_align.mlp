@@ -1,0 +1,24 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="Original_studyCase_1_clean.stl" filename="Original_studyCase_1_clean.stl" visible="1">
+   <MLMatrix44>
+1 -1.44445e-16 7.42234e-15 5.86198e-13 
+1.44445e-16 1 4.4365e-16 1.83187e-15 
+-7.42234e-15 -4.4365e-16 1 1.08002e-12 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="131 149 69 255">100001000000000000000100000001010100000010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="carlos-rivas_mesh_poisson_resized.stl" filename="carlos-rivas_mesh_poisson_resized.stl" visible="1">
+   <MLMatrix44>
+0.421972 -0.863444 -0.276411 19.6996 
+0.896238 0.443268 -0.0164591 12.6752 
+0.136736 -0.240785 0.960899 -44.4514 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="131 149 69 255">100001000000000000000100000001010100000010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
